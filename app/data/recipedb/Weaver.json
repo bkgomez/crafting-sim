@@ -17346,32 +17346,15 @@
     "difficulty": 3943,
     "durability": 70,
     "id": "8ad98e53b48",
-    "level": 350,
+    "level": 380,
     "maxQuality": 29579,
     "name": {
       "cn": "Yamashi Obi",
       "de": "Yamashi-Obi",
-      "en": "Yamashi Obi",
+      "en": "Onishi Skirt of Fending",
       "fr": "Obi Yamashi",
       "ja": "山師帯",
       "ko": "Yamashi Obi"
-    },
-    "stars": 3
-  }
-    {
-    "baseLevel": 70,
-    "difficulty": 4500,
-    "durability": 70,
-    "id": "8ad91e53b48",
-    "level": 380,
-    "maxQuality": 35000,
-    "name": {
-      "cn": "Onishi Skirt of Fending",
-      "de": "Onishi Skirt of Fending",
-      "en": "Onishi Skirt of Fending",
-      "fr": "Onishi Skirt of Fending",
-      "ja": "Onishi Skirt of Fending",
-      "ko": "Onishi Skirt of Fending"
     },
     "stars": 4
   }
