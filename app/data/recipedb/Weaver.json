@@ -17327,19 +17327,19 @@
   {
     "baseLevel": 70,
     "difficulty": 3943,
-    "durability": 70,
+    "durability": 35,
     "id": "6b177e67a57",
-    "level": 350,
+    "level": 380,
     "maxQuality": 29579,
     "name": {
       "cn": "Yamashi Momohiki",
       "de": "Yamashi-Momohiki",
-      "en": "Yamashi Momohiki",
+      "en": "4 start ingot item",
       "fr": "Momohiki Yamashi",
       "ja": "山師股引",
       "ko": "Yamashi Momohiki"
     },
-    "stars": 3
+    "stars": 4
   },
   {
     "baseLevel": 70,
@@ -17351,7 +17351,7 @@
     "name": {
       "cn": "Yamashi Obi",
       "de": "Yamashi-Obi",
-      "en": "Onishi Skirt of Fending",
+      "en": "4 star dummy item",
       "fr": "Obi Yamashi",
       "ja": "山師帯",
       "ko": "Yamashi Obi"
